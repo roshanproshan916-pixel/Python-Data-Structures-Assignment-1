@@ -114,6 +114,6 @@ repetition, indexing, and slicing.
 ```text
 Python-Data-Structures-Assignment-1/
 │
-├── 📓 Python-Data-Structures-Assignment-1.ipynb
+├── 📓 Assignment 1.ipynb
 │
 └── 📄 README.md
