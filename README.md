@@ -1,66 +1,119 @@
-# 🐍 Python Data Structures – Assignment 1
+# 🐍 Python Fundamentals — Data Structures Assignment 1
 
-A Python Fundamentals assignment focused on **Strings and Tuples**, 
-implemented using Jupyter Notebook.
+<p align="center">
+  <b>Strings • String Slicing • String Methods • Tuples</b>
+</p>
 
-This assignment demonstrates the use of Python's built-in operations, 
-slicing, indexing, string methods, and tuple operations through 
-simple practical programs.
-
----
-
-## 📌 Assignment Overview
-
-This assignment covers two fundamental Python data structures:
-
-- **Strings**
-- **Tuples**
-
-The programs are implemented and executed in a Jupyter Notebook with
-comments and outputs for better understanding of each operation.
+<p align="center">
+  A practical Python fundamentals assignment implemented using Jupyter Notebook.
+</p>
 
 ---
 
-## 📚 Topics Covered
+## 📌 Overview
 
-### 1. Strings
+This repository contains **Python Fundamentals – Assignment 1**, focused on
+understanding and applying basic operations on **Strings and Tuples**.
 
-The String section includes:
+The assignment provides practical examples of string manipulation, indexing,
+slicing, built-in string methods, tuple operations, and accessing elements
+using Python indexing and slicing techniques.
 
-- String Concatenation
-- String Indexing
-- String Slicing
-- String Reversal
-- Extracting specific characters and words
-- String Case Conversion
-- Character Counting
-- String Replacement
-
-### 2. Tuples
-
-The Tuple section includes:
-
-- Tuple Creation
-- Tuple Concatenation
-- Tuple Repetition
-- Tuple Indexing
-- Tuple Slicing
-- Accessing specific elements
+All programs are implemented and executed in a **Jupyter Notebook**, with
+comments included to make the logic easy to understand.
 
 ---
 
-## 🧩 Assignment Tasks
+## 🎯 Objectives
 
-### String Operations
+The main objectives of this assignment are to:
 
-The notebook demonstrates:
+- Understand basic String operations in Python
+- Practice String concatenation
+- Apply indexing and slicing techniques
+- Perform String reversal
+- Use commonly used String methods
+- Understand Tuple creation and manipulation
+- Practice Tuple concatenation and repetition
+- Access Tuple elements using indexing and slicing
+
+---
+
+## 📚 Concepts Covered
+
+### 🔹 1. String Concatenation
+
+The notebook demonstrates how multiple strings can be combined using the
+`+` operator.
+
+**Operations covered:**
+
+- Taking user input
+- Concatenating strings
+- Adding additional text to an existing string
+
+---
+
+### 🔹 2. String Slicing & Indexing
+
+The assignment demonstrates how individual characters and portions of a
+string can be accessed using Python indexing and slicing.
+
+**Operations covered:**
+
+- First character
+- Last character
+- First 5 characters
+- Last 11 characters
+- Reversing a string
+- Extracting the word `Python`
+
+---
+
+### 🔹 3. String Methods
+
+The notebook uses the following built-in Python String methods:
+
+| Method | Purpose |
+|--------|---------|
+| `upper()` | Converts the string to uppercase |
+| `lower()` | Converts the string to lowercase |
+| `capitalize()` | Capitalizes the first character |
+| `count()` | Counts occurrences of a character |
+| `replace()` | Replaces specified text |
+
+---
+
+### 🔹 4. Tuples
+
+The Tuple section demonstrates basic Tuple creation, combination,
+repetition, indexing, and slicing.
+
+**Operations covered:**
+
+- Creating Tuples
+- Concatenating two Tuples
+- Repeating Tuple elements
+- Accessing the 3rd element
+- Accessing the first three elements
+- Accessing the last three elements
+
+---
+
+## 🛠️ Technologies Used
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
+
+---
+
+## 📂 Repository Structure
 
 ```text
-Hello + User Name
-String Concatenation
-First Character
-Last Character
-First 5 Characters
-Last 11 Characters
-String Reversal
-Extracting "Python"
+Python-Data-Structures-Assignment-1/
+│
+├── 📓 Python-Data-Structures-Assignment-1.ipynb
+│
+└── 📄 README.md
